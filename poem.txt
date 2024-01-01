@@ -1,6 +1,8 @@
 The raibow 
+
 purple 
 yellow 
 green 
+Pink 
 red 
 black 
