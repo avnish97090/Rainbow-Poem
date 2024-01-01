@@ -1,4 +1,4 @@
-The raibow 
+The raibow and the unicon 
 
 purple 
 yellow 
@@ -7,3 +7,5 @@ Pink
 red 
 blue 
 black 
+These are the colors of the rainbow 
+And the unicorn 
